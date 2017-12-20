@@ -5,10 +5,10 @@ How is the staging area different from the working directory and the repository?
 	The staging area is almost like a testing ground/sandbox, it does not directly interfere with the files for working/tracking but instead condenses all of the commits made into simpler, compact ones for the git repository.
 
 How can you use the staging area to make sure you have one commit per logical change?
-	
+	Use the staging area to add multiple files. Compile them together to perform a clear, logical change to the game/project. 
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	If alternative versions of the file are needed instead of a single master branch, so that different possibilities can be explored by switching back and forth. 
 
 How do the diagrams help you visualize the branch structure?
 
