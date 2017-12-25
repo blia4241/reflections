@@ -5,3 +5,7 @@ When would you want to create a remote repository rather than keeping all your w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 >Not possible to edit via Git every single time. Should allow changes done locally to be "uploaded" as to promote efficiency.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+>Forking is a GitHub-specific function to make a copy of someone's repository for subsequent changes by different users. All changes made in the forked repository will not affect the origin file, and the forked repository exists on GitHub only (not a local file). Cloning means to make an exact copy of the repository between the GitHub and local end (to "download" a GitHub repository to an offline work station, in a way). Branching means that for a single project, creating different "heads" so as to make new commits separate from the master branch, which makes checkout to previous versions easier.  
