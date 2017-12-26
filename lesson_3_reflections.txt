@@ -14,4 +14,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 >Could continue developing offline without getting the progress disrupted, and merge with origin/master whenever needed. 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+>Have to constantly show local code, swap out large parts of it and sub in new parts. This is definitely more difficult. Easier part is won't have to commit for every change made. 
+
+
 
